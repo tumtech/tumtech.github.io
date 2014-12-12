@@ -396,6 +396,7 @@ h1 a.navbar-brand {
 	display: table-cell;
 	vertical-align: middle;
 	line-height: 90px;
+	margin-left: 10px;
 }
 
 .navbar-brand img {
