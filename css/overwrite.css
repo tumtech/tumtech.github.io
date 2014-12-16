@@ -25,6 +25,11 @@ input.input-block-level{
 	padding:20px;
 }
 
+.navbar .navbar-nav > .active > a {
+    padding-bottom: 22px;
+    color:red;
+}
+
 .input-append input,
 .input-prepend input,
 .input-append select,
